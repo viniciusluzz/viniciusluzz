@@ -1,5 +1,5 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/viniciusluzz/fc81af09a1fa8d9c06165e4885f3f89f/raw/78c4d08cdb5b6fc3902b72a9470a5f41907bfc30/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/viniciusluzz/5937ce05bce764b87162d91b8738c946/raw/34b9855e645e742dbd9ddd7e4cdebce7ce19e835/card.svg"/>
 <h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Vinícius Luz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusluzz&color=blue" alt="Profile views" /> </p>
 

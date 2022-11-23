@@ -6,7 +6,7 @@
 
 - 👨‍💻 Front-End Developer
 
-- 📘 Sou aluno do curso Programador Br, o Igor Oliveira. Meu objetivo central é me aprimorar e atuar como um Desenvolvedor Front-End.
+- 📘 Meu objetivo central é me aprimorar e atuar como um Desenvolvedor Front-End.
 
 - 💻 Venho realizando projetos com as seguintes tecnologias: **JavaScript, HTML, CSS e React.js**
 

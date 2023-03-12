@@ -4,12 +4,26 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusluzz&color=blue" alt="Profile views" /> </p>
 
 
-- 👨‍💻 Front-End Developer
+🙋‍♂️ Olá, me chamo Vinícius Luz Nunes. Possuo soft-skills como: resiliência, comunicação assertiva e saber trabalhar em equipe. Faço curso de tecnologia da Rocketseat, tenho sólido conhecimento em HTML, CSS, JavaScript, TypeScript e React.js. Busco oportunidade para adquirir experiência como desenvolvedor Front-end. 
 
-- 📘 Meu objetivo central é me aprimorar e atuar como um Desenvolvedor Front-End.
+🛠Tecnologias que está aprimorando os seus conhecimentos: 
 
-- 💻 Venho realizando projetos com as seguintes tecnologias: **JavaScript, HTML, CSS e React.js**
+* Front-End
+- JavaScript
+- TypeScript
+- HTML5
+- CSS
+- Tailwind CSS
+- ReactJS
 
+* Versionamento
+- Git
+- GitHub 
+
+ 👨‍💻 Objetivo profissional: Desenvolvedor Front-End Júnior. 
+
+📧 E-mail: viniciusvintee9@gmail.com
+🐱 GitHub: https://github.com/viniciusluzz
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack

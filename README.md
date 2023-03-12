@@ -23,7 +23,7 @@
  👨‍💻 Objetivo profissional: Desenvolvedor Front-End Júnior. 
 
 📧 E-mail: viniciusvintee9@gmail.com
-🐱 GitHub: https://github.com/viniciusluzz
+Linkedin: [https://github.com/viniciusluzz](https://www.linkedin.com/in/viniciusluzz/)
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack

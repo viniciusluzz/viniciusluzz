@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusluzz&color=blue" alt="Profile views" /> </p>
 
 
-🙋‍♂️ Olá, me chamo Vinícius Luz Nunes. Possuo soft-skills como: resiliência, comunicação assertiva e saber trabalhar em equipe. Faço curso de tecnologia da Rocketseat, tenho sólido conhecimento em HTML, CSS, JavaScript, TypeScript e React.js. Busco oportunidade para adquirir experiência como desenvolvedor Front-end. 
+🙋‍♂️ Olá, me chamo Vinícius Luz Nunes. Possuo soft-skills como: resiliência, comunicação assertiva e trabalho em equipe. Faço curso de tecnologia da Rocketseat, tenho sólido conhecimento em HTML, CSS, JavaScript, TypeScript e React.js. Busco oportunidade para adquirir experiência como desenvolvedor Front-end. 
 
 🛠Tecnologias que está aprimorando os seus conhecimentos: 
 

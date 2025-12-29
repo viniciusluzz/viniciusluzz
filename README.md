@@ -1,26 +1,24 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/viniciusluzz/5937ce05bce764b87162d91b8738c946/raw/34b9855e645e742dbd9ddd7e4cdebce7ce19e835/card.svg"/>
 <h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Vinícius Luz</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusluzz&color=blue" alt="Profile views" /> </p>
 
 
-🙋‍♂️ Olá, me chamo Vinícius Luz Nunes. Possuo soft-skills como: resiliência, comunicação assertiva e trabalho em equipe. Faço curso de tecnologia da Rocketseat, tenho sólido conhecimento em HTML, CSS, JavaScript, TypeScript e React.js. Busco oportunidade para adquirir experiência como desenvolvedor Front-end. 
+Sou estudante de Sistemas de Informação pela UFRA, atualmente no 4º semestre, com forte interesse na área de desenvolvimento de software.
+Estou me especializando em Java, com foco em programação orientada a objetos, organização de código e construção de soluções escaláveis e eficientes.
+
+Tenho perfil proativo, gosto de aprender na prática e estou sempre buscando aprimorar meus conhecimentos técnicos. Busco oportunidades que me permitam crescer profissionalmente, adquirir experiência e contribuir de forma positiva em projetos de tecnologia.
 
 🛠Tecnologias que está aprimorando os seus conhecimentos: 
 
-* Front-End
-- JavaScript
-- TypeScript
-- HTML5
-- CSS
-- Tailwind CSS
-- ReactJS
-
+- Java
+- Banco de dados
+- Aws
+- Spring Boot
+  
 * Versionamento
 - Git
 - GitHub 
 
- 👨‍💻 Objetivo profissional: Desenvolvedor Front-End Júnior. 
+ 👨‍💻 Objetivo profissional: Estágio como programador Java. 
 
 📧 E-mail: viniciusvintee9@gmail.com
 Linkedin: [https://github.com/viniciusluzz](https://www.linkedin.com/in/viniciusluzz/)
@@ -28,13 +26,9 @@ Linkedin: [https://github.com/viniciusluzz](https://www.linkedin.com/in/vinicius
 
 ## 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+![Java](img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
